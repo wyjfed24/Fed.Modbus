@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fed.Modbus.Rtu", "Fed.Modbus.Rtu\Fed.Modbus.Rtu.csproj", "{CF5366FE-481D-4E76-AE1B-CE98C3A6BAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fed.Device", "Fed.Device\Fed.Device.csproj", "{6C01A199-6399-463F-97A4-5E2FD54889AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fed.SerialPorts", "Fed.SerialPorts\Fed.SerialPorts.csproj", "{3E8041A6-5B79-44A8-B046-6598D8B5FC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5D7A56F8-BB10-4B43-8CEF-A300AB390A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5366FE-481D-4E76-AE1B-CE98C3A6BAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5366FE-481D-4E76-AE1B-CE98C3A6BAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5366FE-481D-4E76-AE1B-CE98C3A6BAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5366FE-481D-4E76-AE1B-CE98C3A6BAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C01A199-6399-463F-97A4-5E2FD54889AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C01A199-6399-463F-97A4-5E2FD54889AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C01A199-6399-463F-97A4-5E2FD54889AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C01A199-6399-463F-97A4-5E2FD54889AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8041A6-5B79-44A8-B046-6598D8B5FC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8041A6-5B79-44A8-B046-6598D8B5FC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8041A6-5B79-44A8-B046-6598D8B5FC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8041A6-5B79-44A8-B046-6598D8B5FC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7A56F8-BB10-4B43-8CEF-A300AB390A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7A56F8-BB10-4B43-8CEF-A300AB390A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7A56F8-BB10-4B43-8CEF-A300AB390A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7A56F8-BB10-4B43-8CEF-A300AB390A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA86697-CB5A-4840-A31C-5B2A43289665}
+	EndGlobalSection
+EndGlobal
